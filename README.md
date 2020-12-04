@@ -1,3 +1,3 @@
 # Kikio Talk Clones
 
-CSS got so much better!
+Html & Css are so much fun!
